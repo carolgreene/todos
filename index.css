@@ -1,0 +1,17 @@
+.container1 {
+    width: 60%;
+    height: 500px;
+    border: 1px solid black;
+    margin: auto;
+}
+
+
+h1 {
+  text-align: center;
+  color: blue;
+
+}
+
+h5 {
+  text-align: center;
+}
